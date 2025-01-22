@@ -5,5 +5,5 @@
 ## Year - Third Year (TE)
 
 ## Socials
-* LinkedIn - Shubhansh Gupta
+* LinkedIn - www.linkedin.com/in/shubhansh-gupta-911557258
 * GitHub - ShubhanshGupta03
